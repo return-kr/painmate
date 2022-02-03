@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/bhaskar/painmate/BuildConfig.java
+ com.bhaskar.painmate.BuildConfig
